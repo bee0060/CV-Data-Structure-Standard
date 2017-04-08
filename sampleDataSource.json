@@ -1,0 +1,76 @@
+{
+	"name": "",
+	"birth": "",
+	"gender": "",
+	"tel": "",
+	"email": "",
+	"education": [""],
+	"languages": [""],
+	"startDateOfWork": "",
+	"selfEvaluation": "",
+	"blog": {
+		"url": "",
+		"description": ""
+	},
+	"github": {
+		"url": "",
+		"description": ""
+	},
+	"expectation": {
+		"title": "",
+		"location": "",
+		"industries": [""],
+		"functionalCategories": [""],
+		"companies": "",
+		"salaryRange": {
+			"from": "",
+			"to": ""
+		},
+		"description": ""
+	},
+	"skills": [{
+		"name": "",
+		"years": "",
+		"selfRating": 0,
+		"description": ""
+	}],
+	"experience": {
+		"companies": [{
+			"name": "",
+			"timeRange": {
+				"from": "",
+				"to": ""
+			},
+			"salary": "",
+			"title": "",
+			"position": "",
+			"department": "",
+			"companyDescription": "",
+			"selfDescription": ""
+		}],
+		"projects": [{
+			"name": "",
+			"timeRange": {
+				"from": "",
+				"to": ""
+			},
+			"title": "",
+			"position": "",
+			"department": "",
+			"technicals": [{
+				"name": "",
+				"description": "",
+				"category": ""
+			}],
+			"tools": [{
+				"name": "",
+				"description": "",
+				"category": ""
+			}],
+			"organizationStructure": "",
+			"projectDescription": "",
+			"personalResponsibility": "",
+			"otherDescription": ""
+		}]
+	}
+}
