@@ -4,8 +4,22 @@
 	"gender": "",
 	"tel": "",
 	"email": "",
-	"education": [""],
-	"languages": [""],
+	"education": [{
+		"name": "",
+		"timeRange": {
+			"from": "",
+			"to": ""
+		},
+		"degree": "",
+		"college": "",
+		"major": "",
+		"achievementEvaluation": "",
+		"description": ""
+	}],
+	"languages": [{
+		"name": "",
+		"description": ""
+	}],
 	"startDateOfWork": "",
 	"selfEvaluation": "",
 	"blog": {
@@ -72,5 +86,23 @@
 			"personalResponsibility": "",
 			"otherDescription": ""
 		}]
-	}
+	},
+	"awardWinningExperience": [{
+		"name": "",
+		"time": "",
+		"description": ""
+	}],
+	"socialExperience": [{
+		"name": "",
+		"timeRange": {
+			"from": "",
+			"to": ""
+		},
+		"description": ""
+	}],
+	"interestings": [{
+		"industry": "",
+		"summary": "",
+		"description": ""
+	}]
 }
